@@ -1,14 +1,14 @@
 To Run,
 
 Client side: 
-<li>
-<ul> npm install </ul>
-<ul> npm start </ul>
-</li>
+<ul>
+<li> npm install 
+<li> npm start
+</ul>
 
 Backend:
-<li>
-<ul> cd api  </ul>
-<ul> pip install -r requirements.txt  </ul>
-<ul> python app.py  </ul>
-</li>
+<ul>
+<li> cd api  
+<li> pip install -r requirements.txt
+<li> python app.py
+</ul>
